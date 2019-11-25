@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <title>Areas of Interest</title>
+
+  </head>
+  <body>
+
+
+      <div id="headingLogo">
+
+      <div class="container">
+        <div class="row justify-content-md-center">
+          <div class="col-8">
+            <div id="Title">
+              <h1 class = "homeTitle"><font color="orange">Braniac Labs</font></font></h1>
+            </div>
+          </div>
+          <div class="col-4">
+            <div id="logoPicture">
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <ul class="nav justify-content-center">
+      <li class="nav-item">
+        <a class="nav-link active" href="HomePage.html">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="Peoples.html">Peoples</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="AreasOfInterest.html">Areas of Interest</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="CurrentProjects.html">Current Projects</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="Publications.html">Publications</a>
+      </li>
+    </ul>
+
+     <div class="heading1">
+        <h1><font color="green">Areas of Interest</font></h1>
+    </div>
+    </br>
+  <br>
+    <br>
+    <br>
+    <br>
+  <br>
+    <br>
+    <br>
+    <br>
+    <div class = "col-sm-4">
+      <div class="image_with_text">
+      <!--  <img src="https://www.psych.ox.ac.uk/images/research/neuroimaging/responsive_image?ratio=image&scale=w760" alt="pic" width="700">-->
+        <div class="box">
+          <h1>NEUROIMAGING</h1>
+          <br>
+          <p>Neuroimaging or brain imaging is the use of various techniques to either directly or indirectly image the structure, function, or pharmacology of the nervous system. It is a relatively new discipline within medicine, neuroscience, and psychology.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <br>
+    <br>
+    <br>
+    <br>
+  <br>
+    <br>
+    <br>
+    <br>
+  <br>
+    <br>
+    <br>
+ 
+
+    <div class = "col-sm-4">
+      <div class="image_with_text">
+     <!--   <img src="https://zdnet3.cbsistatic.com/hub/i/2019/08/23/3ee727b6-3307-48cd-9f6f-77ac484c3b2b/739716e46f6e80ba57279bdac8bf0dc5/ml.jpg" alt="pic" width="700">-->
+        <div class="box">
+          <h1>MACHINE LEARNING</h1>
+          <br>
+          <p>Machine learning is the scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of artificial intelligence.
+          </p>
+        </div>
+      </div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+  <br>
+    <br>
+    <br>
+    <br>
+  <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <div class = "col-sm-4">
+      <div class="image_with_text">
+     <!--   <img src="https://alsadotorg.files.wordpress.com/2016/06/brain-computer-interface.png?w=825&h=510&crop=1" alt="pic" width="700">-->
+        <div class="box">
+          <h1>BRAIN COMPUTER INTERFACES</h1>
+          <br>
+          <p>A brain-computer interface, sometimes called a neural-control interface, mind-machine interface, direct neural interface, or brain-machine interface, is a direct communication pathway between an enhanced or wired brain and an external device.
+          </p>
+        </div>
+      </div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+
+
+
+</body>
+</html>
